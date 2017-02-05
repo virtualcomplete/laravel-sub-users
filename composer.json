@@ -21,7 +21,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "VirtualComplete\\UserExtension\\": "src/"
+      "VirtualComplete\\UserHierarchy\\": "src/"
     }
   }
 }
