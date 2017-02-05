@@ -1,4 +1,4 @@
-# Laravel Sub Users
+# Laravel User Hierarchy (Sub Users)
 
 Allows parent and child relationships with users creating sub-user functionality and a user hierarchy.
 

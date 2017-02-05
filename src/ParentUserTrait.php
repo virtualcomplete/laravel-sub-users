@@ -1,5 +1,5 @@
 <?php
-namespace VirtualComplete\SubUser;
+namespace VirtualComplete\UserHierarchy;
 
 /**
  * Class ParentUserTrait
