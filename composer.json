@@ -1,0 +1,27 @@
+{
+  "name": "virtualcomplete/user-hierarchy",
+  "description": "Allows parent and child relationships with Laravel users creating sub-user functionality",
+  "keywords": [
+    "laravel",
+    "subuser",
+    "user hierarchy",
+    "children",
+    "parent user"
+  ],
+  "homepage": "https://github.com/virtualcomplete/user-hierarchy",
+  "require": {
+    "laravel/framework": "5.*"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Devon Bessemer",
+      "email": "devon.b@virtualcomplete.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "VirtualComplete\\UserExtension\\": "src/"
+    }
+  }
+}
