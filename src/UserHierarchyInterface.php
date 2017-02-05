@@ -1,7 +1,7 @@
 <?php
 namespace VirtualComplete\UserHierarchy;
 
-interface ParentUserInterface
+interface UserHierarchyInterface
 {
     /**
      * Return the User model of the parent user or null if no parent exists

@@ -2,12 +2,10 @@
 namespace VirtualComplete\UserHierarchy;
 
 /**
- * Class ParentUserTrait
- * @package VirtualComplete\UserExtension
- *
- * @property int $parent_id
+ * Trait UserHierarchyTrait
+ * @package VirtualComplete\UserHierarchy
  */
-class ParentUserTrait extends \Eloquent
+trait UserHierarchyTrait
 {
     /**
      * Retrieve the parent of this child user if one exists
